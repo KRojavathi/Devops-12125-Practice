@@ -1,2 +1,5 @@
 Rojavathi kalepalli
 Banglore
+Java 
+Devops
+AWS Cloud
